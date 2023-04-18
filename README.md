@@ -1,8 +1,7 @@
 ### Oii, eu sou o João Vitor Silva 👋
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
+- 🔭 Hoje estudando front-end
 - 💬 Contate-me no email: joaovitors108@gmail.com
 - 😄 Pronouns: ele/dele
 
