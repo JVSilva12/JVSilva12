@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estudando front-end
-- 💬 Contate-me no email: joaovitors108@gmail.com
+- 💬 Contate-me no email: joaovitos108@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
