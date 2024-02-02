@@ -3,7 +3,6 @@
 
 - 🔭 Hoje estudando front-end
 - 💬 Contate-me no email: joaovitos108@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/JVSilva12">
